@@ -1,0 +1,1 @@
+# IR-Sensor-Based-Smart-System-to-Approximate-Core-Body-Temperature
